@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MySwitchView">
+        <attr name="strokeColor" format="color"/>
+        <attr name="buttonColor" format="color"/>
+        <attr name="state" format="boolean"/>
+        <attr name="maskColor" format="color"/>
+
+    </declare-styleable>
+
+</resources>

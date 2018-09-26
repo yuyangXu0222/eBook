@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ffffff</color>
+    <color name="colorPrimaryDark">#ffffff</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+  <!--
+   <color name="background_color_usual">#ffffff</color>
+    <color name="pop_window_color_usual">#f2f1f1</color>
+
+    <color name="background_color_old_time">#e7dcbe</color>
+    <color name="pop_window_color_old_time">#ece5d3</color>
+
+    <color name="background_color_eye">#cbe1cf</color>
+    <color name="pop_window_color_eye">#e1f4e7</color>
+
+    <color name="background_color_night">#333232</color>
+    <color name="pop_window_color_night">#fd464546</color>
+
+-->
+    <color name="seek_bar_color_usual">#20a9c7</color>
+    <color name="seek_bar_color_old_time">#d49762</color>
+    <color name="seek_bar_color_eye">#34a98a</color>
+    <color name="seek_bar_color_night">#2b80cf</color>
+
+    <color name="text_color_normal">#8A000000</color>
+    <color name="text_color_night">#a9a8a8</color>
+    <color name="text_color_blue">#486c94</color>
+    <color name="text_color_white">#fbe6e3e3</color>
+    <color name="text_color_black">#121111</color>
+
+    <color name="btn_text_color">#ff000000</color>
+
+    <color name="stroke_color_light_normal">#c1c0c0</color>
+    <color name="stroke_color_dark_normal">#5c5c5c</color>
+    <color name="stroke_color_pressed">#1ca0be</color>
+
+    <color name="color_transparent">#00ffffff</color>
+
+
+
+
+</resources>

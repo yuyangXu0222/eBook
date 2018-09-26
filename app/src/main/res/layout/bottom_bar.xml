@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/bottom_bar_layout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="bottom"
+    android:gravity="center"
+    android:orientation="horizontal"
+    android:padding="16dp"
+    android:alpha="0.9">
+
+    <Button
+        android:id="@+id/button_content"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:background="@drawable/btn_bottom_bar"
+        android:text="目录"
+
+        />
+
+
+    <Button
+        android:id="@+id/button_setting"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="6dp"
+        android:layout_weight="1"
+        android:background="@drawable/btn_bottom_bar"
+        android:text="设置"
+        />
+
+    <Button
+        android:id="@+id/button_font"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="6dp"
+        android:layout_weight="1"
+        android:background="@drawable/btn_bottom_bar"
+        android:text="字体"
+
+        />
+
+    <Button
+        android:id="@+id/button_label"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="6dp"
+        android:layout_weight="1"
+        android:background="@drawable/btn_bottom_bar"
+        android:text="书签"
+
+        />
+
+</LinearLayout>
+
