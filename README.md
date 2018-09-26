@@ -1,5 +1,5 @@
 ## 因为个人兴趣开发的Android电子书应用
-### 一款界面简洁、风格清新、功能丰富的Android电子书应用：
+### 一款界面简洁、风格清新、功能丰富的Android电子书应用，使用了自定义控件、持久化存储、Assets文件系统、单例设计模式等Android必备基础技术
 ![主页面](https://github.com/yuyangXu0222/eBook/blob/master/image/0.jpeg)
 
 #### 具有仿真翻页、覆盖翻页、直接翻页三种翻页风格   
